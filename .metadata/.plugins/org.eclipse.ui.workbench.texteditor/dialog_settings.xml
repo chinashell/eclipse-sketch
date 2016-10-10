@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="265" key="DIALOG_WIDTH"/>
+		<item value="29" key="DIALOG_Y_ORIGIN"/>
+		<item value="399" key="DIALOG_HEIGHT"/>
+		<item value="1078" key="DIALOG_X_ORIGIN"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="gson" key="selection"/>
+		<list key="findhistory">
+			<item value="Gson"/>
+			<item value="gson"/>
+			<item value="equals"/>
+			<item value="该债权无法被转让"/>
+			<item value="进行债权转让"/>
+			<item value="系数"/>
+			<item value="period"/>
+			<item value="pri"/>
+		</list>
+		<list key="replacehistory">
+			<item value="hxread"/>
+			<item value="3390"/>
+			<item value="Console6789"/>
+			<item value="hxroot"/>
+			<item value="123.56.204.105"/>
+			<item value="root"/>
+			<item value="123.56.204.119"/>
+			<item value="hxNodeDBAdminPwd2016"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="417" key="DIALOG_Y_ORIGIN"/>
+		<item value="724" key="DIALOG_X_ORIGIN"/>
+	</section>
+</section>

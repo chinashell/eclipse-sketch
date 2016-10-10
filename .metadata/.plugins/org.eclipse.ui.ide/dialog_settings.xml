@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="241" key="DIALOG_Y_ORIGIN"/>
+		<item value="424" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="ShowDerived"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode path=&quot;/diyou_user/config/system.properties&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_admin/config/log4j.properties&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_admin/WebContent/js/controllers/tableController.js&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_user/src/com/dy/baf/controller/common/CommonController.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_user/src/com/dy/baf/controller/FrontBaseController.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_server/config/system.properties&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_admin/src/com/dy/baf/admin/controller/system/CurrentConfigController.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_server/src/com/dy/core/trust/TrustController.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_server/src/com/dy/baf/service/trust/impl/TrustRequestServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_user/WebContent/WEB-INF/trust/common/header.jsp&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_user/WebContent/WEB-INF/trust/loan/loan/loan_content.jsp&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_admin/src/com/dy/baf/admin/controller/extension/PaymentController.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_user/config/log4j.properties&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_user/WebContent/assets/trust/js/src/plugins/dykineditor/jsp/README.txt&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_admin/WebContent/js/plugins/dykindeditor/jsp/README.txt&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/diyou_server/config/dbconfig.properties&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="310" key="DIALOG_Y_ORIGIN"/>
+			<item value="840" key="DIALOG_X_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/shell/codespace/eclipsespace/huaxinspace/P2P/diyou_admin"/>
+			<item value="/Users/shell/codespace/eclipsespace/huaxinspace/P2P/diyou_image"/>
+			<item value="/Users/shell/codespace/eclipsespace/huaxinspace/P2P/diyou_mobile"/>
+			<item value="/Users/shell/codespace/eclipsespace/huaxinspace/P2P/diyou_user"/>
+			<item value="/Users/shell/codespace/eclipsespace/huaxinspace/P2P/diyou_server"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ResourceNavigator">
+		<item value="" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
+		<item value="true" key="LINK_NAVIGATOR_TO_EDITOR"/>
+		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
+	</section>
+	<section name="CleanDialogSettings">
+		<item value="484" key="DIALOG_WIDTH"/>
+		<item value="322" key="DIALOG_Y_ORIGIN"/>
+		<item value="354" key="DIALOG_HEIGHT"/>
+		<item value="1917" key="DIALOG_X_ORIGIN"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+	</section>
+</section>
